@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.idea
+.vscode
+/admin/**/*
+!/admin/dist/**/*
+/web/**/*
+!/web/dist/**/*
