@@ -17,4 +17,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD [ "pm2","start", "./bin/www" ]
+CMD [ "pm2","start", "./app.js" ]
